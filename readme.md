@@ -2,7 +2,7 @@
 
 My focus is to deliver high-quality products to the client that can help his/her business grow and give value for his time.
 
-💻 Technologies familiar with:
+💻 **Technologies familiar with**
 
 - JavaScript (ES7)/TypeScript - React.js
 - Node.js
@@ -21,13 +21,13 @@ My focus is to deliver high-quality products to the client that can help his/her
 - Git
 - Linux
 
-⛓️ Marketing/Workflow automation tools
+⛓️ **Marketing/Workflow automation tools**
 
 - Building automated workflows using Zapier and Make
 - Integrating various apps and tools to create a unified system
 - Creating custom apps and scripts to automate tasks as per your requirements
 
-⚙️ Skills:
+⚙️ **Skills**
 
 - Writing clean and readable code
 - Effective communication skills
